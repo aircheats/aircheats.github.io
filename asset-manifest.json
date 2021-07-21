@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c12d5965.chunk.css",
+    "main.js": "/static/js/main.e4a178b2.chunk.js",
+    "main.js.map": "/static/js/main.e4a178b2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8e711369.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8e711369.js.map",
+    "static/js/2.9fc5a69f.chunk.js": "/static/js/2.9fc5a69f.chunk.js",
+    "static/js/2.9fc5a69f.chunk.js.map": "/static/js/2.9fc5a69f.chunk.js.map",
+    "static/css/3.1aed09dd.chunk.css": "/static/css/3.1aed09dd.chunk.css",
+    "static/js/3.7c55f32d.chunk.js": "/static/js/3.7c55f32d.chunk.js",
+    "static/js/3.7c55f32d.chunk.js.map": "/static/js/3.7c55f32d.chunk.js.map",
+    "static/js/4.c954050f.chunk.js": "/static/js/4.c954050f.chunk.js",
+    "static/js/4.c954050f.chunk.js.map": "/static/js/4.c954050f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/3.1aed09dd.chunk.css.map": "/static/css/3.1aed09dd.chunk.css.map",
+    "static/css/main.c12d5965.chunk.css.map": "/static/css/main.c12d5965.chunk.css.map",
+    "static/js/2.9fc5a69f.chunk.js.LICENSE.txt": "/static/js/2.9fc5a69f.chunk.js.LICENSE.txt",
+    "static/media/AirCheats_logo.b292f9af.png": "/static/media/AirCheats_logo.b292f9af.png",
+    "static/media/banner.css": "/static/media/Wave.b188008d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e711369.js",
+    "static/js/2.9fc5a69f.chunk.js",
+    "static/css/main.c12d5965.chunk.css",
+    "static/js/main.e4a178b2.chunk.js"
+  ]
+}
